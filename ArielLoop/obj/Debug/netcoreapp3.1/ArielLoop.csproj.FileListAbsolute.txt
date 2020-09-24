@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.exe
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.deps.json
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.runtimeconfig.json
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.dll
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\bin\Debug\netcoreapp3.1\ArielLoop.pdb
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.dll
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.pdb
+C:\Users\opilane\source\repos\ArielLoop\ArielLoop\obj\Debug\netcoreapp3.1\ArielLoop.genruntimeconfig.cache
